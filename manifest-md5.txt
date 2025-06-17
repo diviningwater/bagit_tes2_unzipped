@@ -1,0 +1,11 @@
+2436e1d62bd1ffa0fbce577c6f5e65aa    data/contents/Excel/All_Station_Analysis.xlsx
+c8ebd1f55a61b8d45f230f0fbff68920    data/contents/Excel/Excel_Fig_Histogram.xlsx
+63bd9814cebaf970a5acb61339022612    data/contents/Excel/Summary.xlsx
+2d595eada2f03aa66e4bc537b4b52325    data/contents/Matlab_Code/Code01_Daymet_Colorado_SAE.m
+0ce45958c7313e68a148c5c6e14df965    data/contents/Matlab_Code/Code01_Daymet_Wym_Boulder_SAE.m
+3162a479fe4129e899d38311cc0d0312    data/contents/Matlab_Code/Code01_Daymet_Wym_SAE.m
+44018978e843839eceb8fad938249bb2    data/contents/Matlab_Code/Daymet_Colorado_Effective.m
+0f39363f471669189c68860ef5f05502    data/contents/Matlab_Code/Daymet_Wyoming_Effective.m
+d11971494035aa718d78b525530ada0f    data/contents/Matlab_Code/Read_me.docx
+6520575c65cb67b0e40dc02e7348e019    data/resourcemap.xml
+d21662328fb7fd1571a7e686eb7471b1    data/resourcemetadata.xml
